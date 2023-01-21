@@ -2,9 +2,9 @@
 We implemented the following topology with Cisco Packet Trace
 
 ##
-<center>
+
 ![image](https://user-images.githubusercontent.com/100516014/213859984-00b26eaf-4403-4707-a967-e82a46ac38dc.png)
-</center>
+
 ###
 
 Here it should be: 
