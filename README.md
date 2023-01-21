@@ -5,7 +5,7 @@ We implemented the following topology with Cisco Packet Trace
 
 ![image](https://user-images.githubusercontent.com/100516014/213859984-00b26eaf-4403-4707-a967-e82a46ac38dc.png)
 
-###
+##
 
 Here it should be: 
 1) Implement the topology with the software provided. In cases where no IP is given
