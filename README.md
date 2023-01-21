@@ -3,6 +3,7 @@ We implemented the following topology with Cisco Packet Trace
 
 ##
 ![image](https://user-images.githubusercontent.com/100516014/213859329-83786f3e-e605-4f66-b162-eae8dae06cbe.png)
+###
 Here it should be: 
 1) Implement the topology with the software provided. In cases where no IP is given
 addresses will have to be calculated by you and assigned to the corresponding interfaces of the
