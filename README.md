@@ -2,10 +2,8 @@
 We implemented the following topology with Cisco Packet Trace
 
 ##
-<p align="center">
-  <img src="path/to/image.jpg" alt="image">
-</p>
-<p align="center"><img scr="https://user-images.githubusercontent.com/100516014/213859329-83786f3e-e605-4f66-b162-eae8dae06cbe.png" alt="image"></p>
+
+
 ###
 
 Here it should be: 
